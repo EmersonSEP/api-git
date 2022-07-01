@@ -1,6 +1,6 @@
 # Repostiorio do github
 
-## Projeto que consome uma API do github utilizando React.
+## Para colocar em prática as aulas de React, foi criada uma pagina com todos os meus repositorios do github.
 
 ### Pré-requisitos
 
