@@ -19,6 +19,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [TypeScript](https://www.typescriptlang.org/)
 - [Vite](https://vitejs.dev/)
 
+### URL
+- https://62d3a21f7de22d16cc84d48d--preeminent-kelpie-bf9e9f.netlify.app/
+
 ---
 
 ### Autor
